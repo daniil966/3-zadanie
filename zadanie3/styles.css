@@ -1,0 +1,15 @@
+.jolor {
+    text-align: center;
+    color: green;
+}
+
+.main {
+    font-size: 18px;
+    color: blue;
+}
+.button {
+    background-color: yellow;
+    color: black;
+    border-radius: 15px;
+    width: 250px;
+}
